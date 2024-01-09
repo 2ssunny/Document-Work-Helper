@@ -1,0 +1,22 @@
+.title-header {
+  background-color: #e4e5e6;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  margin-bottom: 0px;
+}
+
+.title-logo {
+  padding-top: 0.3rem;
+  padding-bottom: 0.25rem;
+  height: 4rem;
+  width: auto;
+  padding-right: 1rem;
+}
+
+.tltle-text {
+  margin-left: 1rem;
+  color: black;
+  text-decoration: none;
+}

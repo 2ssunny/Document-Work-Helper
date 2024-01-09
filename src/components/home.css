@@ -1,0 +1,39 @@
+.hometitle {
+  background-color: #292e49;
+  text-align: center;
+  height: 90vh;
+  width: 100%;
+}
+
+.hometitle_text {
+  margin-top: 0px;
+  padding-top: 3rem;
+  font-size: 3rem;
+  color: wheat;
+}
+
+.homebody {
+  background-color: #536976;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  color: ivory;
+}
+
+.homebody2 {
+  background-color: #bbd2c5;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  color: #447cff;
+}
+
+.homebody_title {
+  padding-top: 3rem;
+  font-size: 1.5rem;
+}
+
+.homebody_content {
+  padding-top: 3rem;
+  font-size: 1.5rem;
+}
